@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "417075852608",
+    "firebase_url": "https://myfirstfirebase-e010f.firebaseio.com",
+    "project_id": "myfirstfirebase-e010f",
+    "storage_bucket": "myfirstfirebase-e010f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417075852608:android:ec9194ac4bc07be8",
+        "android_client_info": {
+          "package_name": "com.amar.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417075852608-541v79skqussjtks6bdnoju3bj3qfqkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ePgkjVOOq6z03j41vBUfRfG8GanuFOM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
